@@ -1,0 +1,47 @@
+ 619-817-1456 |  howardanguyen@gmail.com |
+Education
+University of California, Berkeley
+B.S. IN ELECTRICAL ENGINEERING AND COMPUTER SCIENCE
+ www.howardanguyen.com |
+ phoxelua |
+ howardanguyen
+Skills
+Proficient with: Familiar with:
+Experience
+Captricity
+FULL-STACK ENGINEER
+Python, Java, Django, PostgreSQL, Celery, Ruby on Rails, Flask, HTML/CSS Elixir, C/C++, Javascript, Angular2, React, MongoDB, Riak
+Howard Nguyen
+SOFTWARE ENGINEER
+971 Alabama Street, San Francisco CA, 94110
+ • Coursework:ArtificialIntelligence,Algorithms,Databases,DataStructures,MachineLearning,MachineStructures,Graphics
+August 2011 - May 2015
+3.5 GPA
+  • Designedandcreatedanewregex-likemodel,fromscratch,tosupportformswithpagesthatareoptional,repeating,andoutoforder
+• Increased workforce throughput by using Celery to asynchronously batch Amazon Human Intelligence Tasks (HITs) based on per-
+ceived e ort, task type, and completion time
+• Decreasedjoblatencybybuildingnearreal-timerepricingofundesirableAmazonHumanIntelligenceTasks(HITs)
+• Increasedsystemreliabilitybymigratingapartofjobpipelineintoaseperatemicroservice
+• Decreasedsystemdowntimethroughthrottlingandsplittingoflargejobsthatconsumedexcessiveresources
+• Improvedcustomerturnaroundtimeusingjobprioritizationbasedonservicelevelagreement(SLA)
+• Ensuredsystemscalabilityviabenchmarking,optimizingPostgresqlqueries,andsegregatingCeleryinfrastructure
+• ProvidedrealtimesupportduringsystemoutagesusingAirbrake,Splunk,NewRelic,andcustommonitoringintegrations
+• Mentoredtwosummerfull-stackinternsandhelpedthemdelivercoreimprovementsonformsetupandconfiguration
+Natero Java, Hadoop MapReduce, Pig SOFTWARE ENGINEER INTERN May 2014 - August 2014
+• BuiltaJSONconfigurationcompilertochainHadoopMapReducejobsandperformcohortanalysisonlargedatasets • Implementedclientretentionrateand”layercake”plotvisualizationsusingd3
+• CreatedacustomLRURediscachewithlockingforparalleloperationsandmanualgarbagecollection
+University of California, Berkeley Python, Scheme
+ACADEMIC INTERN August 2014 - December 2014
+• Assistedinteachingintroductorycomputersciencecoursebyholdingo icehours,answeringquestionsonPiazzastudentforum, and leading section warm-ups
+Flowbit Arduino language (C/C++ set)
+SOFTWARE ENGINEER INTERN May 2013 - August 2013
+• BuiltanArduino-basedremotewatermonitorthatcouldprocessSMScommands,senddailywaterusage,andreceiveGPSinforma- tion
+Personal Projects
+Django, PostgreSQL, Celery
+July 2015 - Present
+ Family Dog Rescue, volunteer
+Present
+2016 Matcha, a budgeting and personal finance Flask application
+2015 Smaug, an invoicing and autoshop management Rails application for Balboa Automotive Service 2014 Content Aware Resizing through Seam Carving, won Best Project Award
+2014 Rap Cloud, a rap phrase aggregator build for LinkedIn Hacker Games
+
